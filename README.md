@@ -1,4 +1,5 @@
-##About me
+## About me
+
 First of all i'm Kingsley by name.I'm into I.T ever since i got admission into the tertiary institution.
 I loved been challenged with difficult task so i can improve on my skills and have more experience
 in whatever am doing. I like working with brilliant and smart people. I also love people who are 
@@ -11,7 +12,8 @@ to any organiztion which requires my services so as to enable them achieve their
 - 💞️ I’m looking to collaborate with anyone who needs my assistance ...
 - 📫 How to reach me via kingpin4sure@yahoo.com...
 
-##Skills
+## Skills
+
 HTML, Javascript / AJAX, PHP, Python, CSS, Graphics Design, 2D/3D Animation
 
 <!---
