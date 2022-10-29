@@ -12,9 +12,15 @@ to any organiztion which requires my services so as to enable them achieve their
 - 💞️ I’m looking to collaborate with anyone who needs my assistance ...
 - 📫 How to reach me via kingpin4sure@yahoo.com...
 
+![Kingpinukecy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingpinukecy&show_icons=true&theme=radical)
+
+
 ## Skills
 
 HTML, Javascript / AJAX, PHP, Python, CSS, Graphics Design, 2D/3D Animation
+
+
+
 
 <!---
 kingpinukecy/kingpinukecy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
