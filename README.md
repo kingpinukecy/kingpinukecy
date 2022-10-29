@@ -40,6 +40,9 @@ to any organiztion which requires my services so as to enable them achieve their
 
 ![Kingpinukecy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingpinukecy&show_icons=true&theme=radical)
 
+![GitHub metrics](https://metrics.lecoq.io/kingpinukecy)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kingpinukecy)  
 
 ## Other Skills
 
