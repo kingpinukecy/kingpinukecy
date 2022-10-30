@@ -8,13 +8,14 @@ in whatever am doing. I like working with brilliant and smart people. I also lov
 hard working as well. i'm also a team player in anything i do. My aim here is to give out my best
 to any organiztion which requires my services so as to enable them achieve their optimal goal
 
+<img align="right" src="https://github.com/kingpinukecy/kingpinukecy/blob/main/giphy-bg12.gif" alt="new techy pix" width="500" height="300">
+
 - 👋 Hi, I’m @kingpinukecy
 - 👀 I’m a full stack developer.
 - 🌱 I’m currently learning new programming language.
 - 💞️ I’m looking to collaborate with anyone who needs my assistance.
 - 📫 How to reach me via kingpin4sure@yahoo.com
-
-
+<br><br><br><br><br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingpinukecy&label=Profile%20views&color=0e75b6&style=flat" alt="kingpinukecy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingpinukecy" alt="kingpinukecy" /></a> </p>
