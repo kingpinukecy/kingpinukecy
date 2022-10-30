@@ -1,3 +1,5 @@
+![My Banner Logo](https://github.com/kingpinukecy/kingpinukecy/blob/main/my_banner.png)
+
 # About me
 
 <h3 align="center">i'm passionate full stack developer from Nigeria</h3>
