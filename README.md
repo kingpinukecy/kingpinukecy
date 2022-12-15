@@ -22,12 +22,12 @@ to any organiztion which requires my services so as to enable them achieve their
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingpinukecy" alt="kingpinukecy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kingpin4ever" target="blank"><img src="https://img.shields.io/twitter/follow/kingpin4ever?logo=twitter&style=for-the-badge" alt="kingpin4ever" /></a> </p>
+<p align="left"> <a href="https://twitter.com/whizkingpin" target="blank"><img src="https://img.shields.io/twitter/follow/whizkingpin?logo=twitter&style=for-the-badge" alt="kingpin4ever" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/whizkingpin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/whizkingpin" height="30" width="40" /></a>
-<a href="https://twitter.com/kingpin4ever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kingpin4ever" height="30" width="40" /></a>
+<a href="https://twitter.com/whizkingpin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kingpin4ever" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kingsley-matthew-586b9a1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kingsley-matthew-586b9a1b4/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/11283160/whizkingpin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/11283160/whizkingpin" height="30" width="40" /></a>
 <a href="https://fb.com/https://web.facebook.com/kingpinukecy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/kingpinukecy/" height="30" width="40" /></a>
