@@ -2,11 +2,11 @@
 
 # About me
 
-<h3 align="center">i'm passionate full stack developer from Nigeria</h3>
+<h3 align="center">i'm a passionate full stack developer from Nigeria</h3>
 
-First of all i'm <b style="color:yellow;">Kingsley by name</b>.I'm into I.T ever since i got admission into the tertiary institution.
+First of all i'm <b style="color:yellow;">Kingsley by name</b>.I'm into I.T even before i got admission into the tertiary institution.
 I loved been challenged with difficult task so i can improve on my skills and have more experience
-in whatever am doing. I like working with brilliant and smart people. I also love people who are 
+in whatever am doing. I like working with people who have positive mindset like mine. I also love people who are 
 hard working as well. i'm also a team player in anything i do. My aim here is to give out my best
 to any organiztion which requires my services so as to enable them achieve their optimal goal
 
