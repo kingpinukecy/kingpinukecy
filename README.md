@@ -1,4 +1,4 @@
-![My Banner Logo](https://github.com/kingpinukecy/kingpinukecy/blob/main/my_banner.png)
+![My Banner Logo](https://github.com/kingpinukecy/kingpinukecy/blob/main/giphy-bg12.gif)
 
 # About me
 
